@@ -34,7 +34,12 @@
 
 
 ##### Connect with me <br>
-![https://instagram.com/ifanxthree](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
 
 ##### Play games with me
 <img src="https://raw.githubusercontent.com/crangka/crangka/output/snake.svg" alt="Snake animation" />
